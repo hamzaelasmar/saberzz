@@ -1,0 +1,27 @@
+*{
+    font-family: 'Pusab', sans-serif;
+    
+}
+h1{
+    color: #a68218;
+}
+button{
+    background-color: green;
+    border: 0px;
+    color: #fff;
+    width: 100px;
+    height:60px ;
+    border-radius: 10px;
+    margin-top: 10px;
+    display: inline-block;
+}
+button:hover{
+    background-color: darkgreen;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color:black;
+    padding-top: 50px;
+}
